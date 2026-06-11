@@ -43,7 +43,7 @@ A cross-platform mobile app built with Expo, Expo Router, and Tamagui for taking
 └── tamagui-web.css         # Generated Tamagui CSS (web)
 ```
  
-## 🚀 Getting Started
+## Getting Started
  
 ### Prerequisites
  
