@@ -131,8 +131,6 @@ npm test          # Run Jest in watch mode
  
 Tests use `jest-expo` and `react-test-renderer`.
  
----
- 
 ## ⚙️ Configuration Notes
  
 - **Routing scheme**: `myapp://` (configured in `app.json` for deep linking)
