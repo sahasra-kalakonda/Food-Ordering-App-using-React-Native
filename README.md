@@ -4,13 +4,13 @@ A cross-platform mobile app built with Expo, Expo Router, and Tamagui for taking
  
 ## Features
  
-- **Cross-platform** — Runs on iOS, Android, and Web from a single codebase
-- **File-based routing** — Powered by Expo Router for clean, scalable navigation
-- **Tamagui UI** — Performant, themeable components with dark/light mode support
-- **Firebase backend** — Firestore, Realtime Database, Storage, and Cloud Functions
-- **React Admin dashboard** — Web-based admin panel for order/data management
-- **React Hook Form** — Efficient, validated form handling
-- **TypeScript** — Full type safety throughout the project
+- **Cross-platform**: Runs on iOS, Android, and Web from a single codebase
+- **File-based routing**: Powered by Expo Router for clean, scalable navigation
+- **Tamagui UI**: Performant, themeable components with dark/light mode support
+- **Firebase backend**: Firestore, Realtime Database, Storage, and Cloud Functions
+- **React Admin dashboard**: Web-based admin panel for order/data management
+- **React Hook Form**: Efficient, validated form handling
+- **TypeScript**: Full type safety throughout the project
 
 ## Tech Stack
  
