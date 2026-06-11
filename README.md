@@ -123,7 +123,7 @@ npm run predeploy   # runs: expo export -p web
 firebase deploy
 ```
  
-## 🧪 Testing
+## Testing
  
 ```bash
 npm test          # Run Jest in watch mode
