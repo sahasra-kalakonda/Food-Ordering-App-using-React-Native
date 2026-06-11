@@ -11,8 +11,7 @@ A cross-platform mobile app built with Expo, Expo Router, and Tamagui for taking
 - **React Admin dashboard** — Web-based admin panel for order/data management
 - **React Hook Form** — Efficient, validated form handling
 - **TypeScript** — Full type safety throughout the project
----
- 
+
 ## 🛠 Tech Stack
  
 | Technology | Version |
