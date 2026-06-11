@@ -12,7 +12,7 @@ A cross-platform mobile app built with Expo, Expo Router, and Tamagui for taking
 - **React Hook Form** — Efficient, validated form handling
 - **TypeScript** — Full type safety throughout the project
 
-## 🛠 Tech Stack
+## Tech Stack
  
 | Technology | Version |
 |---|---|
