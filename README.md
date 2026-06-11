@@ -75,7 +75,7 @@ npm run ios       # iOS simulator or device
 npm run web       # Browser (localhost)
 ```
  
-## 🔥 Firebase Setup
+## Firebase Setup
  
 ### Configuration
  
