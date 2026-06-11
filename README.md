@@ -134,10 +134,9 @@ Tests use `jest-expo` and `react-test-renderer`.
 ## Configuration Notes
  
 - **Routing scheme**: `myapp://` (configured in `app.json` for deep linking)
-- **UI style**: `automatic` — respects the device's dark/light mode
+- **UI style**: `automatic` respects the device's dark/light mode
 - **Path alias**: `@/*` maps to the project root (configured in `tsconfig.json`)
 - **Typed routes**: enabled via Expo Router's `experiments.typedRoutes`
----
  
 ## 📄 License
  
