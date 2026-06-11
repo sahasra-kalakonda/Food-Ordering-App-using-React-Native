@@ -137,7 +137,3 @@ Tests use `jest-expo` and `react-test-renderer`.
 - **UI style**: `automatic` respects the device's dark/light mode
 - **Path alias**: `@/*` maps to the project root (configured in `tsconfig.json`)
 - **Typed routes**: enabled via Expo Router's `experiments.typedRoutes`
- 
-## 📄 License
- 
-This project is private. All rights reserved.
