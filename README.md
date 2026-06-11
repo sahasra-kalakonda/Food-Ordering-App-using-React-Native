@@ -26,7 +26,7 @@ A cross-platform mobile app built with Expo, Expo Router, and Tamagui for taking
 | TypeScript | ^5.7.2 |
 | Moment.js | ^2.30.1 |
  
-## 📁 Project Structure
+## Project Structure
  
 ```
 ├── app/                    # File-based routes (Expo Router)
