@@ -1,4 +1,4 @@
-# 🛒 Order Taking Mobile App
+# Order Taking Mobile App
  
 A cross-platform mobile app built with Expo, Expo Router, and Tamagui for taking and managing orders. Features a Firebase backend for real-time data, a React Admin dashboard for management, and full TypeScript support.
  
